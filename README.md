@@ -1,39 +1,23 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-I'm <b>Ahmed Sameh</b>, a passionate Front-End Developer who loves building responsive and interactive web experiences.
+I'm Ahmed Sameh, a self-motivated tech enthusiast and Front-End Web Developer.
 </p>
 
 <h4 align="center">
-💻 Front-End Developer | 🚀 Creating Modern Web Applications | 🌱 Always Learning New Technologies
+💻 Front-End Developer | 🌱 Learning Modern Web Technologies | 🚀 Building Responsive Websites
 </h4>
 
 <p align="center">
-Focused on crafting clean, user-friendly, and responsive websites using modern web technologies.
+HTML • CSS • Bootstrap • JavaScript
 </p>
 
 <br/>
 
 <h3 align="center">
-My Tech Stack
+My Tech Stacks
 </h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-</p>
 
 <h3 align="center">
-🚀 Technologies I Use
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Tech Stack"/>
 </h3>
-
-<p align="center">
-HTML5 • CSS3 • Bootstrap • JavaScript
-</p>
-
-<h3 align="center">
-📫 Connect With Me
-</h3>
-
-<p align="center">
-Feel free to explore my projects and connect with me through GitHub.
-</p>
