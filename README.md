@@ -1,21 +1,52 @@
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+I'm Ahmed Sameh, a passionate Front-End Developer who loves building modern, responsive, and user-friendly web interfaces.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+💻 Front-End Developer | 🚀 Creating Modern Websites | 🌱 Always Learning New Technologies
 </h4>
-<p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+
+<p align="center">
+👨‍💻 ENG / AHMED SAMEH
 </p>
 
 <br/>
-<h3 align="center">
-My Tech Stacks
-</h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+My Front-End Tech Stack
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode" />
+</p>
+
+<br/>
+
+<h3 align="center">
+About Me
+</h3>
+
+<p align="center">
+✨ Front-End Developer focused on creating responsive and attractive web experiences.<br>
+🎯 Specialized in HTML5, CSS3, Bootstrap, and JavaScript.<br>
+🚀 Passionate about clean code, modern UI design, and performance optimization.<br>
+📚 Continuously improving my skills and exploring new web technologies.
+</p>
+
+<br/>
+
+<h3 align="center">
+Connect With Me
+</h3>
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+<h3 align="center">
+⚡ Turning Ideas Into Digital Reality
 </h3>
