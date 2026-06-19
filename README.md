@@ -1,24 +1,52 @@
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-I'm Ahmed Sameh, a self-motivated Front End Web Developer.
+I'm Ahmed Sameh, a passionate Front-End Developer who loves building modern, responsive, and user-friendly web interfaces.
 </p>
 
 <h4 align="center">
-💻 Front End Developer | 💬 connect <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+💻 Front-End Developer | 🚀 Creating Modern Websites | 🌱 Always Learning New Technologies
 </h4>
+
 <p align="center">
-<a href="https://ahmedsameh.github.io">https://ahmedsameh.github.io</a>
+👨‍💻 ENG / AHMED SAMEH
 </p>
 
 <br/>
+
 <h3 align="center">
-My Tech Stacks
+My Front-End Tech Stack
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode" />
 </p>
+
+<br/>
+
+<h3 align="center">
+About Me
+</h3>
+
+<p align="center">
+✨ Front-End Developer focused on creating responsive and attractive web experiences.<br>
+🎯 Specialized in HTML5, CSS3, Bootstrap, and JavaScript.<br>
+🚀 Passionate about clean code, modern UI design, and performance optimization.<br>
+📚 Continuously improving my skills and exploring new web technologies.
+</p>
+
+<br/>
+
+<h3 align="center">
+Connect With Me
+</h3>
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+<h3 align="center">
+⚡ Turning Ideas Into Digital Reality
+</h3>
