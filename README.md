@@ -1,33 +1,23 @@
-<h3 align="center">Hi there 👋</h3>
+<h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Ahmed Sameh, a passionate Front-End Developer focused on creating modern, responsive, and user-friendly websites.
+I'm Ahmed Sameh, a passionate Front-End Developer specialized in building modern and responsive websites.
 </p>
 
 <h4 align="center">
-💻 Front-End Developer | 🚀 Founder of FUTURE LOGIC | 🌱 Building Modern Web Experiences
+💻 Front-End Developer | 🚀 Founder of FUTURE LOGIC | 💬 Connect with me
 </h4>
 
 <p align="center">
-ENG / AHMED SAMEH
+<a href="https://github.com/YOUR_USERNAME">https://github.com/YOUR_USERNAME</a>
 </p>
 
 <br/>
 
 <h3 align="center">
-My Front-End Tech Stack
+My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode" alt="Front-End Stack"/>
+<img src="YOUR_STACK_IMAGE_LINK" alt="stacks"/>
 </h3>
-
-<br/>
-
-<h3 align="center">
-⚡ FUTURE LOGIC
-</h3>
-
-<p align="center">
-Turning Ideas Into Digital Reality
-</p>
